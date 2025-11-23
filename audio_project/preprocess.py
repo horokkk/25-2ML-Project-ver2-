@@ -8,8 +8,8 @@ Original file is located at
 """
 
 # 필수 라이브러리 설치
-!pip install -q kagglehub librosa pandas numpy tqdm
-!pip install resampy
+#!pip install -q kagglehub librosa pandas numpy tqdm
+#!pip install resampy
 
 """**1. 데이터 다운로드 및 전처리**"""
 
